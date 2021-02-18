@@ -123,7 +123,10 @@ public class CollectionUtils {
 		if(source != null && target != null && itemGetter != null){
 			source.forEach(item -> {
 				R r = itemGetter.apply(item);
-				target.add(r);
+				if(r!=null) {
+					target.add(r);
+				}
+				
 			});
 		}
 	}
