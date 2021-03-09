@@ -11,8 +11,6 @@ import java.util.Date;
  * <p>Description: </p><p>
  * 框架级的日期格式接口
  * </p>
- * @author Copperfield Zhang
- * @date 2016年3月13日 下午2:26:42
  */
 public interface FrameDateFormat {
 

@@ -9,8 +9,6 @@ import java.text.SimpleDateFormat;
  * <p>Description: </p><p>
  * 框架默认的日期格式工具类
  * </p>
- * @author Copperfield Zhang
- * @date 2016年3月9日 上午9:20:45
  */
 public class CommonDateFormat extends AbstractFrameDateFormat {
 	//默认日期格式

@@ -13,8 +13,6 @@ import java.io.Serializable;
  * <p>Description: </p><p>
  * 序列化工具类
  * </p>
- * @author Copperfield Zhang
- * @date 2017年7月19日 上午10:20:13
  */
 public class SerializeUtils {
 	

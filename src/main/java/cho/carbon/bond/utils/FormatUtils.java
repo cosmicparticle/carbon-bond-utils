@@ -10,8 +10,6 @@ import java.util.LinkedHashMap;
  * <p>Description: </p><p>
  * 格式化工具类
  * </p>
- * @author Copperfield Zhang
- * @date 2016年3月13日 下午1:49:08
  */
 public class FormatUtils {
 	/**

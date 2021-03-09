@@ -32,8 +32,6 @@ import cho.carbon.bond.utils.xml.XmlNode;
  * <p>Description: </p><p>
  * http请求工具类
  * </p>
- * @author Copperfield Zhang
- * @date 2017年3月9日 下午9:15:54
  */
 public class HttpRequestUtils {
 	

@@ -10,8 +10,6 @@ import java.util.regex.Pattern;
  * <p>Description: </p><p>
  * 文本处理工具，可以用于替换文本和拼接文本
  * </p>
- * @author Copperfield Zhang
- * @date 2017年5月25日 下午4:39:59
  */
 public class TextHandler {
 	private StringBuffer buffer;

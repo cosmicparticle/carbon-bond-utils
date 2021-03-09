@@ -13,8 +13,6 @@ import java.util.Date;
  * 框架默认日期时间格式工具类。
  * 通过集成这个抽象类可以实现不同格式的日期时间格式
  * </p>
- * @author Copperfield Zhang
- * @date 2016年3月13日 下午2:32:48
  */
 public abstract class AbstractFrameDateFormat implements FrameDateFormat{
 	//默认日期格式化对象

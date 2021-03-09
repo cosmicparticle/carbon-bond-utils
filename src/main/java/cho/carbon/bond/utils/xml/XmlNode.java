@@ -8,8 +8,6 @@ import java.util.List;
  * <p>Description: </p><p>
  * 通用xml对象接口
  * </p>
- * @author Copperfield Zhang
- * @date 2017年3月9日 下午2:57:13
  */
 public interface XmlNode {
 	/**

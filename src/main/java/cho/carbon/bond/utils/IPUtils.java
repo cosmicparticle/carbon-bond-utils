@@ -7,8 +7,6 @@ import sun.net.util.IPAddressUtil;
  * <p>Description: </p><p>
  * 如果sun.net.util.IPAddressUtil的包提示不存在，那么需要配置eclipse的buildPath，添加一个accessible的条目sun/**
  * </p>
- * @author Copperfield Zhang
- * @date 2017年5月27日 上午11:21:15
  */
 public class IPUtils {
 	/**

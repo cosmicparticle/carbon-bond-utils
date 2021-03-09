@@ -18,9 +18,6 @@ import cho.carbon.bond.utils.FormatUtils;
  * <p>Description: </p><p>
  * 将对象的字段转换成XmlNode对象，当前只能转换一层，无法嵌套转换
  * </p>
- * @author Copperfield Zhang
- * @date 2017年3月9日 下午9:17:17
- * @since 2017年3月9日 下午9:17:17
  * @param <T>
  */
 public class XMLConverter<T> {
